@@ -1,4 +1,4 @@
-# Empty site on Vue.js
+# Simple-page on Vue.js
 
 ##_Implemented in the project:_
 
