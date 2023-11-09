@@ -1,7 +1,8 @@
-# marvel
+# Empty site on Vue.js
 
-##_В проекте реализованы:_
+##_Implemented in the project:_
 
 - [x] Bootstrap
 - [x] Gulp
+- [x] HTTP, JSON
 - [x] Ajax
